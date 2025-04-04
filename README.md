@@ -1,10 +1,4 @@
-### Olá, eu sou o Madi 
 
-- Estudante de CyberSegurança e Programação
-- Estudando Typescript
-- Contato pelo email: iruanritter2k@gmail.com
-- Pronomes: ele/dele
-- 17y
 
   <div>
     <a href="https://beacons.ai/MadiHide">
